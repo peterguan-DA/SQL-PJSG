@@ -1,0 +1,4 @@
+-- Checks the cost of running the query
+EXPLAIN
+SELECT *
+FROM film;
